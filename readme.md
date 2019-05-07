@@ -4,7 +4,9 @@
 
 ## install
 
+```bash
 go install github.com/mohuishou/gen-const-msg
+```
 
 ## Usage
 
