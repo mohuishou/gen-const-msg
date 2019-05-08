@@ -1,6 +1,7 @@
+//go:generate  gen-const-msg
+
 package example
 
-//go:generate  gen-const-msg
 const (
 	// ErrParams err params
 	ErrParams = 400
