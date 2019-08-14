@@ -45,7 +45,6 @@ const noErrorMsg = "unknown error"
 
 // messages get msg from const comment
 var messages = map[int]string{
-
 	ErrParams: "err params",
 	ErrServer: "Internal Server Error",
 }
